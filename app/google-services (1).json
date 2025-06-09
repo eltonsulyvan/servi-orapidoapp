@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "26249650913",
+    "project_id": "serviorapidoapp",
+    "storage_bucket": "serviorapidoapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26249650913:android:3b168dd1a9a5d0963b0da0",
+        "android_client_info": {
+          "package_name": "com.projeto.serviorapidoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIndOuBJ4GWqBUK9xb9T3elbQou_iE5zw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
